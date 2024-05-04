@@ -32,7 +32,7 @@ Average Linux / Powershell enjoyer, favorite commands: <strong>"sudo rm -rf"</st
   - <a href="https://usec.no">USEC (Portfolio)</a>
   - <a href="https://github.com/urb4n3/Discord-Leaderboard">Discord-Leaderboard</a>
   - <a href"">The Railgun Project</a>
-  - CenterMyDiv.com (Reached end of life)
+  - CenterMyDiv.com (Reached end of life and har been converted to a Chinese gambling site :( )
 
 ~> <strong>ls socials</strong>
   - <a rel=me href="https://www.linkedin.com/in/elias-johansen-0a092a233/">linkedin</a>
