@@ -30,6 +30,7 @@ Average Linux / Powershell enjoyer, favorite commands: <strong>"sudo rm -rf"</st
 Projects:
   - <a href"">The Railgun Project</a>
   - <a href="https://captcha-quest.web.app/">Captcha Quest</a>
+  - <a href="https://usec.no">USEC (Portfolio)</a>
   - CenterMyDiv.com (Reached end of life)
   - <a href="https://github.com/urb4n3/Discord-Leaderboard">Discord-Leaderboard</a>
 
