@@ -28,10 +28,10 @@ Average Linux / Powershell enjoyer, favorite commands: <strong>"sudo rm -rf"</st
   Currently i am working on a collaborative webapp among some friends.
   
  ~> <strong>ls projects</strong>
-  - <a href"">The Railgun Project</a>
   - <a href="https://captcha-quest.web.app/">Captcha Quest</a>
   - <a href="https://usec.no">USEC (Portfolio)</a>
   - <a href="https://github.com/urb4n3/Discord-Leaderboard">Discord-Leaderboard</a>
+  - <a href"">The Railgun Project</a>
   - CenterMyDiv.com (Reached end of life)
 
 ~> <strong>ls socials</strong>
