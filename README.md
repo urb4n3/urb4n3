@@ -13,20 +13,19 @@
 </pre>
 
 <pre>
-Favorite command: sudo rm -rf
+Average Linux / Powershell enjoyer, favorite commands: <strong>"sudo rm -rf"</strong> and <strong>"git push --force"</strong>
 </pre>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,linux,c,cpp,arduino,bash,blender,discord,firebase,mysql,html,css,js,react,materialui" />
+  </a>
+</p>
 
 <pre>
  ~> <strong>cat aboutme.txt</strong>
   I usually just code for fun, but are now pursuing becoming a functional member of society idk.
- 
- ~> <strong>ls socials</strong>
-  - <a rel=me href="https://www.linkedin.com/in/elias-johansen-0a092a233/">linkedin</a>
-  end of file~
-
- ~> <strong>finger urbane</strong>
-Login: urbane                         Name: Elias
-Directory: /home/                     Shell: /usr/bin/usec
+  Currently i am working on a collaborative webapp among some friends.
   
 Projects:
   - <a href"">The Railgun Project</a>
@@ -34,7 +33,10 @@ Projects:
   - CenterMyDiv.com (Reached end of life)
   - <a href="https://github.com/urb4n3/Discord-Leaderboard">Discord-Leaderboard</a>
 
+~> <strong>ls socials</strong>
+  - <a rel=me href="https://www.linkedin.com/in/elias-johansen-0a092a233/">linkedin</a>
+  end of file~
+
 ~> display motto.gif
-  ![lorem](https://github.com/urb4n3/urb4n3/assets/120412864/b3263172-4471-4435-8ec3-e12e18a0fb38)
-  
 </pre>
+![lorem](https://github.com/urb4n3/urb4n3/assets/120412864/b3263172-4471-4435-8ec3-e12e18a0fb38)
