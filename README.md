@@ -18,7 +18,7 @@ Average Linux / Powershell enjoyer, favorite commands: <strong>"sudo rm -rf"</st
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,c,cpp,arduino,bash,blender,discord,firebase,mysql,html,css,js,react,materialui" />
+    <img src="https://skillicons.dev/icons?i=git,linux,c,cpp,pwsh,bash,blender,discord,firebase,mysql,html,css,js,react,materialui" />
   </a>
 </p>
 
