@@ -41,3 +41,6 @@ Average Linux / Powershell enjoyer, favorite commands: <strong>"sudo rm -rf"</st
 ~> display motto.gif
 </pre>
 ![lorem](https://github.com/urb4n3/urb4n3/assets/120412864/b3263172-4471-4435-8ec3-e12e18a0fb38)
+<pre>
+Unsure if you should deploy to production on a friday? Use this: <a href="https://shouldideploy.today">https://shouldideploy.today</a>
+</pre>
