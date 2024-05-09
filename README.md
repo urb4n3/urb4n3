@@ -26,7 +26,7 @@ Average Linux / Powershell enjoyer, favorite commands: <strong>"sudo rm -rf"</st
  ~> <strong>cat aboutme.txt</strong>
   I usually just code for fun, but are now pursuing becoming a functional member of society heh.
   Currently i am writing my bachelor thesis in <a href="https://www.ntnu.no/studier/bdigsec">Digital Infrastructure and Cybersecurity</a>,
-  i also do some occational work on a collaborative webapp among some friends.
+  i also do some occational work on <a href="https://github.com/urb4n3/The-Railgun-Project">The Railgun Project</a>.
   
  ~> <strong>ls projects</strong>
   - <a href="https://captcha-quest.web.app/">Captcha Quest</a>
