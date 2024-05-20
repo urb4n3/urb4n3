@@ -16,7 +16,7 @@
 Average Linux / Powershell enjoyer, favorite commands: <strong>"sudo rm -rf"</strong> and <strong>"git push --force"</strong>
 </pre>
 <h3 align="center">
-<em>Just a Bogo Sort guy in a Quicksort world.</em>.
+<em>Just a Bogosort guy in a Quicksort world.</em>.
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
