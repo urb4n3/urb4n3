@@ -26,8 +26,8 @@ Average Linux / Powershell enjoyer, favorite commands: <strong>"sudo rm -rf"</st
 
 <pre>
  ~> <strong>cat aboutme.txt</strong>
-  I usually just code for fun, but I also want to use my bachelor degree in <a href="https://www.ntnu.no/studier/bdigsec">Digital Infrastructure and Cybersecurity</a> to make a efficiant and safe netscape.
-  On my free time i do some occational work on <a href="https://github.com/urb4n3/The-Railgun-Project">The Railgun Project</a> and <a href="https://usec.no">usec.no</a>.
+  I usually just code for fun, but I also want to use my bachelor degree in <a href="https://www.ntnu.no/studier/bdigsec">Digital Infrastructure and Cybersecurity</a> to make 
+  a efficient and safe netscape. On my free time i do some occational work on <a href="https://github.com/urb4n3/The-Railgun-Project">The Railgun Project</a> and <a href="https://usec.no">usec.no</a>.
   
  ~> <strong>ls projects</strong>
   - <a href="https://usec.no">usec.no</a>
