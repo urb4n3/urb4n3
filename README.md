@@ -26,6 +26,7 @@ Norwegian developer and cybersecurity enthusiast with a degree in Digital Infras
 urb4n3@usec:~$ cd projects && ls
 - usec.no
 - api.usec.no
+- lofi.usec.no
 
 urb4n3@usec:~$ xdg-open motto
 Opening motto.gif...... Done!
