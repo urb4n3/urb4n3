@@ -30,8 +30,7 @@ urb4n3@usec:~$ cd projects && ls
 urb4n3@usec:~$ xdg-open motto
 Opening motto.gif...... Done!
 ```
-![lorem](https://github.com/urb4n3/urb4n3/assets/120412864/b3263172-4471-4435-8ec3-e12e18a0fb38)
+<img height=200 src="https://github.com/urb4n3/urb4n3/assets/120412864/b3263172-4471-4435-8ec3-e12e18a0fb38" />
 <pre align="left">
 Did you say mergeconflict? <strong>"git push --force"</strong>
 </pre>
-
