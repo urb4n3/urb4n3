@@ -14,7 +14,7 @@ United Security | Always Ready
 </h3>
 <p align="center">
   <a href=".">
-    <img src="https://skillicons.dev/icons?i=git,linux,c,cpp,cs,pwsh,bash,discord,firebase,mysql,html,css,js,react,materialui" />
+    <img src="https://skillicons.dev/icons?i=git,pwsh,dotnet,linux,firebase,react,c,cs,cpp,discord,mysql,html,css,js,materialui" />
   </a>
 </p>
 
