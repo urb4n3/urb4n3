@@ -6,7 +6,7 @@
 / /_/ /___/ / /___/ /___   
 \____//____/_____/\____/   
                            
-United Security | Always Ready
+United Security / Always Ready
 </pre>
 
 <h3 align="center">
