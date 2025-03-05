@@ -1,40 +1,69 @@
-<pre align="center">
-
-   __  _______ ____________
-  / / / / ___// ____/ ____/
- / / / /\__ \/ __/ / /     
-/ /_/ /___/ / /___/ /___   
-\____//____/_____/\____/   
-                           
-United Security / Always Ready
-</pre>
-
-<h3 align="center">
-<em>Just a Bogosort guy in a Quicksort world.</em>.
-</h3>
 <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4287f5,100:9dbff5"
+/>
+
+<div align="justify">
+  <p align="left">
+    <strong>
+      <samp>「</samp>
+    </strong>
+  </p>
+  <p align="center">
+    <samp>
+       <br />
+   <b>
+      Mergeconflict?
+      <br />
+        Have you tried "git push --force"?
+        <br />
+      <br />
+<img height=125 src="https://github.com/user-attachments/assets/e73a3e0f-fe38-4b05-aea2-5a61f6e5926f" />
+</p>
+    <p align="center">
+     <img
+        src="https://readme-typing-svg.demolab.com?font=Play&duration=6100&pause=1000&color=F7F7F7&center=true&repeat=true&width=600&lines=Just+a+Bogosort+guy+in+a+Quicksort+world..." alt="Typing SVG"
+        alt="Typing SVG"
+      />
+    </samp>
+      <br />
+      </br>
+    </samp>      
+  </p>
+  <p align="right">
+    <strong>
+      <samp>」</samp>
+    </strong>
+  </p>   
+
+
+    
+ <br /> <br />
+    
+   <p align="center">
   <a href=".">
-    <img src="https://skillicons.dev/icons?i=git,pwsh,dotnet,linux,kali,redhat,c,cs,cpp,mysql,postman,firebase,react,materialui" />
+    <img src="https://skillicons.dev/icons?i=git,pwsh,dotnet,linux,kali,docker,c,cs,cpp,mysql,postman,firebase,react,materialui" />
   </a>
 </p>
 
 
 ```console
 urb4n3@usec:~$ cat aboutme.txt
-Norwegian developer and cybersecurity enthusiast with a degree in Digital Infrastructure and Cybersecurity.
+Cybersecurity architect @ DigDir | B.Sc. in Digital Infrastructure and Cybersecurity
+Hobby developer with a "fuck around n find out" mentality.
 
-urb4n3@usec:~$ cd projects && ls
+urb4n3@usec:~$ cd highlights && ls
+- Locked Shields 2025 | NATO
+
+urb4n3@usec:~\highlights$ cd .. && cd projects && ls
 - usec.no
-- api.usec.no
 - lofi.usec.no
 
-urb4n3@usec:~$ xdg-open motto
-Opening motto.gif...... Done!
+urb4n3@usec:~\projects$ cd .. && sudo rm rf /* no-preserve-root
+Terminated
+VFS: Cannot open root device "<NULL>" or unknown block(9,0)
+KERNEL PANIC
 ```
-<p align="center">
-<img height=200 src="https://github.com/urb4n3/urb4n3/assets/120412864/b3263172-4471-4435-8ec3-e12e18a0fb38" />
-</p>
-<p align="center">
-Mergeconflict? <code>"git push --force"</code> 
-</p>
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4287f5,100:9dbff5&section=footer"
+/>
