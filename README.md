@@ -49,13 +49,13 @@
 ```console
 urb4n3@usec:~$ cat aboutme.txt
 Cybersecurity architect @ DigDir | B.Sc. in Digital Infrastructure and Cybersecurity
-Hobby developer with a "fuck around n find out" mentality.
+Hobby developer trying to make shit without memory leaks
 
 urb4n3@usec:~$ cd highlights && ls
-- Locked Shields 2025 | NATO
+- Locked Shields 2025 NATO | Digital forensics analyst
 
 urb4n3@usec:~\highlights$ cd .. && cd projects && ls
-- usec.no
+- usec.no (WIP)
 - lofi.usec.no
 
 urb4n3@usec:~\projects$ cd .. && sudo rm rf /* no-preserve-root
