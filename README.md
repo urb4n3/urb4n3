@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4287f5,100:9dbff5"
-/>
+
 
 <div align="justify">
   <p align="left">
@@ -41,15 +39,14 @@
     
    <p align="center">
   <a href=".">
-    <img src="https://skillicons.dev/icons?i=git,pwsh,dotnet,linux,kali,docker,c,cs,cpp,mysql,postman,firebase,react,materialui" />
+    <img src="https://skillicons.dev/icons?i=git,pwsh,dotnet,linux,cloudflare,docker,c,cs,cpp,py,postman,gcp,azure,kubernetes" />
   </a>
 </p>
 
 
 ```console
 urb4n3@usec:~$ cat aboutme.txt
-Cybersecurity architect @ DigDir | B.Sc. in Digital Infrastructure and Cybersecurity
-Hobby developer trying to make shit without memory leaks
+Cloud Security Engineer and hobby developer trying to make shit without memory leaks
 
 urb4n3@usec:~$ cd highlights && ls
 - Locked Shields 2025 NATO | Digital forensics analyst
@@ -64,6 +61,4 @@ VFS: Cannot open root device "<NULL>" or unknown block(9,0)
 KERNEL PANIC
 ```
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4287f5,100:9dbff5&section=footer"
-/>
+
