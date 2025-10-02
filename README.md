@@ -17,16 +17,7 @@
       <br />
 <img height=125 src="https://github.com/user-attachments/assets/e73a3e0f-fe38-4b05-aea2-5a61f6e5926f" />
 </p>
-    <p align="center">
-     <img
-        src="https://readme-typing-svg.demolab.com?font=Play&duration=6100&pause=1000&color=F7F7F7&center=true&repeat=true&width=600&lines=Just+a+Bogosort+guy+in+a+Quicksort+world..." alt="Typing SVG"
-        alt="Typing SVG"
-      />
-    </samp>
-      <br />
-      </br>
-    </samp>      
-  </p>
+
   <p align="right">
     <strong>
       <samp>」</samp>
