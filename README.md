@@ -43,8 +43,8 @@ urb4n3@usec:~$ cd highlights && ls
 - Locked Shields 2025 NATO | Digital forensics analyst
 
 urb4n3@usec:~\highlights$ cd .. && cd projects && ls
-- usec.no (WIP)
-- lofi.usec.no
+- usec.no
+- norenlabs.no
 
 urb4n3@usec:~\projects$ cd .. && sudo rm rf /* no-preserve-root
 Terminated
