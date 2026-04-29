@@ -41,6 +41,7 @@ Cloud Security Engineer and hobby developer trying to make shit without memory l
 
 urb4n3@usec:~$ cd highlights && ls
 - Locked Shields 2025 NATO | Digital forensics analyst
+- Locked Shields 2026 NATO | Digital forensics analyst
 
 urb4n3@usec:~\highlights$ cd .. && cd projects && ls
 - usec.no
